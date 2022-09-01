@@ -1,3 +1,3 @@
 # GitHub_demo_project
-DEMO PROJECT "GITHUB"
-hello world
+My name is Panhavorn
+Im from SQ15
